@@ -16,4 +16,4 @@ This project features a dashboard application that visualizes sales data using v
 
 
 you can see the live preview here 
-https://66dae58825d2d9597ee87dcf--magenta-mandazi-0dcf82.netlify.app/
+https://66db563a19010d940e662b33--rad-zuccutto-69f700.netlify.app/
